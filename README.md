@@ -1,5 +1,5 @@
 # JPA
-Maria Valdete Vieira Figueiredo  
+Maria Valdete Vieira Figueiredo
 
 Eduarda Reis de Oliveira
 
