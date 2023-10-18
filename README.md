@@ -1,7 +1,7 @@
 # JPA
-Maria Valdete Vieira Figueiredo
+[Maria Valdete Vieira Figueiredo](https://github.com/valdete132)
 
-Eduarda Reis de Oliveira
+[Eduarda Reis de Oliveira](https://github.com/EduardaReis3332)
 
 ## Pacote dao
 
