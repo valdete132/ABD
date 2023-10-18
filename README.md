@@ -1,8 +1,7 @@
 # JPA
-Maria Valdete Vieira Figueiredo 
-Eduarda Reis de Oliveira
+Maria Valdete Vieira Figueiredo  
 
-* _Projeto em desenvolvimento_
+Eduarda Reis de Oliveira
 
 ## Pacote dao
 
