@@ -17,7 +17,7 @@ public class Biblioteca {
         while (true) {
             System.out.print(" --- Biblioteca ---\n\n" +
                     "1) Adicionar empréstimo\n" +
-                    "2) Consultar empréstimo\n" +
+                    "2) Mostrar empréstimos\n" +
                     "3) Alterar empréstimo\n" +
                     "4) Remover empréstimo\n" +
                     "5) Adicionar aluno\n" +
