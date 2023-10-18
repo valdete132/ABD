@@ -1,4 +1,6 @@
-# BibliotecaJPA
+# JPA
+Maria Valdete Vieira Figueiredo 
+Eduarda Reis de Oliveira
 
 * _Projeto em desenvolvimento_
 
